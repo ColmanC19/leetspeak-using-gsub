@@ -1,17 +1,3 @@
-# def leetspeak_letter_e(word)
-#   array = []
-#   x = word.gsub("e", "3")
-#   array.push(x)
-#   array
-# end
-#
-# def leetspeak_letter_o(word)
-#   array = []
-#   x = word.gsub("o", "0")
-#   array.push(x)
-#   array
-# end
-
 def leetspeak_letter_s(word)
   array = []
   triggers = {
